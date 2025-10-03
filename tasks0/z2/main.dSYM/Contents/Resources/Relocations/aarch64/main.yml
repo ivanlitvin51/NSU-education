@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ivanlitvin/Visual Studio Code/z2/main'
+relocations:     []
+...
